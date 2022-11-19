@@ -1,0 +1,6 @@
+name: pong
+dependencies:
+- python=3.10
+- pip
+- pip:
+    - pyxel
